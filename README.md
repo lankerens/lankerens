@@ -22,4 +22,4 @@
 
 
  
- ![](https://raw.githubusercontent.com/xlzy520/xlzy520/main/assets/github-contribution-grid-snake.svg)
+ ![](https://github.com/lankerens/lankerens/blob/main/assets/github-contribution-grid-snake.svg)
