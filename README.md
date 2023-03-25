@@ -17,8 +17,8 @@
 <!--   [![trophy](https://github-profile-trophy.vercel.app/?username=lankerens)](https://github.com/lankerens) -->
 
 
-- :orange_book: 前端Angular
-- :orange_book: 后端Java、ASP.NET ...
+- :orange_book: Angular、Unity
+- :orange_book: Java、C# ...
 
 
  
