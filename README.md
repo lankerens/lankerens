@@ -17,8 +17,8 @@
 <!--   [![trophy](https://github-profile-trophy.vercel.app/?username=lankerens)](https://github.com/lankerens) -->
 
 
-- :orange_book: Angular、Unity
-- :orange_book: Java、C# ...
+- :orange_book: Angular、Unity、VUE、React
+- :orange_book: Java、C#、Rust...
 
 
  
